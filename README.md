@@ -2,7 +2,7 @@
 
 # Is a Video worth $n\times n$ Images? A Highly Efficient Approach to Transformer-based Video Question Answering 💡
 
-**[Chenyang Lyu](https://lyuchenyang.github.io) 🌍, [Tianbo Ji](mailto:jitianbo@ntu.edu.cn) 📧, [Yvette Graham](mailto:ygraham@tcd.ie) 📧, [Jennifer Foster](mailto:jennifer.foster@dcu.ie) 📧**
+**[Chenyang Lyu](https://lyuchenyang.github.io), [Tianbo Ji](mailto:jitianbo@ntu.edu.cn), [Yvette Graham](mailto:ygraham@tcd.ie), [Jennifer Foster](mailto:jennifer.foster@dcu.ie)**
 
 School of Computing, Dublin City University, Dublin, Ireland 🏫
 
